@@ -1,0 +1,65 @@
+body {
+  background-image: url(../images/astro.png);
+}
+
+fieldset {
+  width: 450px;
+  background-color: white;
+  margin-left: 500px;
+  margin: 0 auto;
+}
+
+#firstName {
+  margin-left: 50px;
+}
+
+#insertion {
+  margin-left: 61px;
+}
+
+#lastName {
+  margin-left: 52px;
+}
+
+#messageTitle {
+  margin-left: 28px;
+}
+
+#message {
+  margin-left: 61px;
+  width: 148px;
+}
+
+#email {
+  margin-left: 80px;
+}
+
+#website {
+  margin-left: 67px;
+}
+
+#footer {
+width: 100%;
+height: 50px;
+position: absolute;
+left: 0px;
+background-color: white;
+text-align: center;
+font-family: impact;
+padding-top: 1px;
+bottom: 0px;
+}
+
+#table-container {
+  border: 1px solid black;
+  width: 800px;
+  height: 200px;
+  margin-top: 60px;
+  margin-left: 400px;
+  background-color: white;
+  overflow-y: scroll;
+}
+
+#tabledata td {
+  border: 1px solid red;
+}
